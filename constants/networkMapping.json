@@ -1,1 +1,6 @@
-{"31337":{"NftMarketplace":["0x5FbDB2315678afecb367f032d93F642f64180aa3"]}}
+{
+    "4": { "NftMarketplace": ["0x079DeB77e2Fc781CB4Cc1B7AB9aa9380f2A0DCee"] },
+    "31337": {
+        "NftMarketplace": ["0x5FbDB2315678afecb367f032d93F642f64180aa3"]
+    }
+}
