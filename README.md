@@ -10,7 +10,7 @@
    1. You can list your nft on the marketplace
    2. Withdraw proceeds
 
-Moralis:
+Instead of reading the events from Moralis,
 
-1. Connect to blockchain
-2. Which contract, which events, what to do on those events
+1. Index events with TheGraph
+2. Read from TheGraph
