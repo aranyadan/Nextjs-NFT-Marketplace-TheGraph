@@ -9,6 +9,7 @@
 2. Sell Page:
    1. You can list your nft on the marketplace
    2. Withdraw proceeds
+      1. Add proceeds button 
 
 Instead of reading the events from Moralis,
 
